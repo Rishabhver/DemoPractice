@@ -6,6 +6,11 @@ public class HomePage {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Home Page");
+		
+		System.out.println("Home Page1");
+		
+		
+		System.out.println("Home Page2");
 
 	}
 
