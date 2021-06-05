@@ -12,12 +12,7 @@ public class HomePage {
 		
 		System.out.println("Home Page2");
 		
-<<<<<<< HEAD
-=======
-		System.out.println("This code is now in new branch");
-		
-		System.out.println("This code is now in new branch2");
->>>>>>> c7024dac86804e4aa7b2fe9a4a8bbde364689f1c
+
 
 System.out.println("Home Page6");
 
