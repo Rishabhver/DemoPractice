@@ -19,6 +19,8 @@ public class HomePage {
 		System.out.println("This code is now in new branch3");
 		
 		System.out.println("This code is now in new branch4");
+		
+		System.out.println("Home Page6");
 
 	}
 
