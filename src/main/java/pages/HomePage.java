@@ -11,6 +11,8 @@ public class HomePage {
 		
 		
 		System.out.println("Home Page2");
+		
+		System.out.println("Home Page 3");
 
 	}
 
